@@ -18,8 +18,8 @@ body{
 .poster{
   overflow: hidden;
   position: absolute;
-  /* left: -300px;
-  bottom: -300px; */
+  left: -300px;
+  bottom: -300px;
   animation: scaling 9s linear infinite;
   /* background-color: deeppink; */
   /* transform: skew(130deg, 10deg); */
